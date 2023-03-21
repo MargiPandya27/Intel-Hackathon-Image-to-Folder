@@ -14,7 +14,7 @@ collections of images and videos.
 
 ## Dataset
 
-Download Dataset: (https://www.kaggle.com/datasets/734b7bcb7ef13a045cbdd007a3c19874c2586ed0b02b4afc86126e89d00af8d2)
+Download Dataset: (https://www.kaggle.com/code/gcdatkin/marvel-character-image-classification/input)
 
 
 ## Pre-Requisites(prefered)

@@ -3,14 +3,7 @@
 
 
 ## Problem Statement
-The task is to develop a computer vision model to detect and categorize
-objects in images and videos stored on a laptop. The model should be able
-to accurately identify the presence and location of different objects within
-the images and videos and classify them into relevant categories.
-The categories could be predefined or learned from the data. The goal is to
-provide an efficient and automated way to analyze and categorize extensive
-collections of images and videos.
-
+Imagine being able to effortlessly analyze and categorize vast collections of images and videos in a snap! With the power of computer vision, we can develop a cutting-edge model that accurately detects and categorizes different objects, providing us with invaluable insights and saving us hours of tedious manual work. From identifying objects' presence and location to classifying them into relevant categories, our model will revolutionize the way we approach image and video analysis. Say goodbye to the hassle of sifting through endless files and say hello to the future of efficient and automated image and video processing!
 
 ## Dataset
 

@@ -5,8 +5,8 @@
 ## Problem Statement
 Imagine being able to effortlessly analyze and categorize vast collections of images and videos in a snap! With the power of computer vision, we can develop a cutting-edge model that accurately detects and categorizes different objects, providing us with invaluable insights and saving us hours of tedious manual work. From identifying objects' presence and location to classifying them into relevant categories, our model will revolutionize the way we approach image and video analysis. Say goodbye to the hassle of sifting through endless files and say hello to the future of efficient and automated image and video processing!
 
-**OUTPUT**: 
-https://github.com/pandyamk27/Image-to-Folder/blob/main/20230324210344.mp4
+## **OUTPUT**: 
+https://github.com/MargiPandya27/Intel-Hackathon-Image-to-Folder/blob/main/20230324210344.mp4
 
 ## Dataset
 

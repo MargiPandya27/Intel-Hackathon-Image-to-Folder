@@ -27,7 +27,7 @@ Images are stored in a folder without segregation.
 
 ## Dataset
 
-Download Dataset: (https://www.kaggle.com/code/gcdatkin/marvel-character-image-classification/input)
+Download Dataset: (https://github.com/MargiPandya27/Intel-Hackathon-Image-to-Folder/blob/main/archive_(5).zip)
 
 
 ## Pre-Requisites(prefered)
